@@ -1,0 +1,17 @@
+.banner {
+    background-image: url(https://i.pinimg.com/originals/7b/20/fe/7b20fe37ec99bcc0927dec3817bbdeb1.png);
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+}
+
+.banner h1 {
+    color: white;
+}
+
+.banner p {
+    color: white;
+    opacity: .7;
+    font-size: 20px;
+}
+
